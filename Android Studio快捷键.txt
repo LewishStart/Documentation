@@ -1,0 +1,47 @@
+常用
+Ctrl＋[或] 可以跳到大括号的开头结尾
+Ctrl＋Shift＋Backspace 可以跳转到上次编辑的地方
+Ctrl＋N 可以快速打开类
+Ctrl＋P，可以显示参数信息
+Alt＋Insert可以生成构造器/Getter/Setter等
+Ctrl＋Alt＋T可以把代码包在一块内，例如try/catch
+Alt＋Up and Alt＋Down可在方法间快速移动
+Ctrl＋/和Ctrl＋Shift＋/可以注释代码
+Ctrl＋Alt＋B可以跳转到抽象方法的实现
+Ctrl+Alt+L  格式化代码
+Ctrl+E或者Alt+Shift+C  最近更改的代码
+Ctrl＋O可以选择父类的方法进行重写
+Live Templates! Ctrl＋J
+Ctrl+D： 集合了复制和粘贴两个操作，如果有选中的部分就复制选中的部分，并在选中部分的后面
+粘贴出来，如果没有选中的部分，就复制光标所在的行，并在此行的下面粘贴出来。
+Ctrl+F：搜索
+Ctrl+R 替换文本
+Ctrl+shift+A：快速查找android studio中的菜单
+Alt+回车 导入包,自动修正
+Ctrl+X 删除行
+Ctrl+D 复制行
+Ctrl+H 显示类结构图
+Alt+ left/right 返回至上次浏览的位置
+shift+F6：可对类、方法、变量进行重命名，使用的地方会自动更新名字。
+
+不常用
+Ctrl＋Alt＋V 可以引入变量。例如把括号内的SQL赋成一个变量
+Alt＋Q可以看到当前方法的声明
+Ctrl＋W可以选择单词继而语句继而行继而函数
+Ctrl＋Q可以看JavaDoc
+Ctrl＋Alt＋Space是类名自动完成
+Ctrl＋Shift＋F7可以高亮当前元素在当前文件中的使用
+Ctrl＋Alt＋Up /Ctrl＋Alt＋Down可以快速跳转搜索结果
+ Ctrl+空格： 输入代码时按此组合键会列出与之相匹配的类、方法名、成员变量等，起智能提示的作用。
+在编辑XML文件一样有用。
+Ctrl+Alt+shift+I：检测代码,比如检测一些定义了，但没有使用过的变量或方法。检测的目的是为了提高代码效率。
+Ctrl+Alt+shift+N ：快速打开输入的方法或变量。
+Ctrl+shift+F7：以高亮的形式标志处一些相关的东西，这里主要由三种情况：1.光标的位置在implement时，
+会把类实现了接口的方法名给标志出来；2.光标的位置在return时，会标志出方法的所有退出的地方；
+3.光标在try或者throws关键字处时，会标志出会产生异常的语句。
+shift+鼠标滚动：可实现编辑界面的横向滚动。
+Ctrl+Alt+V：调用方法时传入的参数是比较复杂的表达式时，可用此组合键重构变量，以简化代码的复杂度。
+在组合键之前要先选中表达式。
+Alt+shift+C：查看工程的最近修改
+Ctrl+shift+空格：在赋值或者是在方法中要传入参数时，列出类型匹配的方法名、成员变量名。
+Ctrl+空格 代码提示
